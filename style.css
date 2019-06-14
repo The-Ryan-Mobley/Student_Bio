@@ -1,12 +1,17 @@
 h1{
     font-family: 'Times New Roman', Times, serif;
     color: white;
-    background-color: deeppink;
-    text-align: center;
+    background-color: black;
 }
 #placeholder{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: auto;
+    float: left;
+    padding-right: 20px;
+}
+.bio{
+    float: left;
+    width: 50%;
+}
+div{
+    float: left;
+    padding-left: 20px;
 }
